@@ -7,3 +7,6 @@ Only tested on RadioMaster TX16S, requires minimum OpenTX version of 2.3.11 for 
 Designed to be displayed in a Top Bar zone, though will work anywhere.
 
 Defaults to SF switch
+
+![ScreenShot](tx-throttle-hold-off.png)
+![ScreenShot](tx-throttle-hold.png)
