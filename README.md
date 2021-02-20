@@ -8,10 +8,12 @@ Designed to be displayed in a Top Bar zone, though will work anywhere.
 
 Defaults to SF switch
 
-SF set to high, HOLD is Grayed out (not active)
+Examples where HOLD is configured to be in the Top Bar First Zone
+
+Throttle HOLD is not-active
 
 ![ScreenShot](tx-throttle-hold-off.png)
 
-SF to to low, HOLD is active
+Throttle HOLD is active
 
 ![ScreenShot](tx-throttle-hold.png)
