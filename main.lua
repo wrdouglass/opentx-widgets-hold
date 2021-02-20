@@ -15,13 +15,10 @@ local function background(wgt)
 end
 
 local function refresh(wgt)
-    if lcd == nil then
-        return
-    end
-
     local x = wgt.zone.x + wgt.zone.w/2 - 23;
     local y = wgt.zone.y + wgt.zone.h/2 - 10;
 
+    -- requires >= 2.3.11
     local originalColor = lcd.getColor(TEXT_COLOR)
 
     if wgt.options.Switch == 0 then
